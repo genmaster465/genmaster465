@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Eric Yu  
 
 🚀 Senior Software Engineer | AI & DevOps Specialist  
@@ -23,7 +24,7 @@ Building automation, cloud, and AI solutions for global teams.
 | [MyCareAlgorithm](https://github.com/yourrepo) | Healthcare API migration (Azure v3→v4, Dockerized) | Node.js, Azure, Docker |
 | [TextIt Backup Service](https://github.com/yourrepo) | Automated Twilio/TextIt data backup with retention logic | Python, GCP, BigQuery |
 | [Mini IDP Platform](https://github.com/yourrepo) | Internal DevOps platform with CI/CD & RAG integration | FastAPI, LangChain, Terraform |
--->
+
 ---
 
 ## 📊 GitHub Stats
@@ -38,8 +39,8 @@ Building automation, cloud, and AI solutions for global teams.
 ---
 
 ## 📫 Connect
-<!--
+
 🌐 [LinkedIn](https://linkedin.com/in/yourlink)  
 💼 [Upwork](https://upwork.com/freelancers/yourlink)  
--->
 ✉️ paliyanrajat@email.com
+-->
