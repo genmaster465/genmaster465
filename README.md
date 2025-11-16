@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Eric Yu  
+# 👋 Hi, I'm Thomas
 
 🚀 Senior Software Engineer | AI & DevOps Specialist  
 Building automation, cloud, and AI solutions for global teams.
